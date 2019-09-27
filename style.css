@@ -1,0 +1,124 @@
+body.voc .container{
+    max-width:90% auto;
+}
+body.home {
+    margin-top: 70px;
+    background-color: #e6e6e6;
+}
+
+body.voc {
+    background-color: #eeeeee;
+}
+
+body.voc #main {
+    padding: 0px 50px 0px 350px;
+}
+
+
+.navigation {
+    margin-top: 100px;
+}
+
+.maintitle {
+    font-weight: 700;
+    text-align: center;
+    color: #E51F59;
+}
+
+.sidebartitle {
+    font-weight: 100;
+    color: #E51F59;
+}
+
+body.voc #main {
+    padding-top: 50px;
+}
+
+.formc {
+    background-color: #fff;
+    margin-bottom: 110px;
+    padding: 20px;
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+
+}
+/* .adwordfrm{
+    margin-left: 320px;
+    margin-bottom: 80px;
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    padding: 20px;
+    background-color: #fff;
+
+}
+.adwordfrm h4{
+    text-align: center;
+} */
+
+.formc h3, .formc h4 {
+    text-align: center;
+}
+
+.formaction {
+    padding: 20px;
+    text-align: center;
+}
+
+.sidebar {
+    z-index:100;
+    width: 280px;
+    height: 100vh;
+    background-color: #ccc;
+    position: fixed;
+
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+
+.alphabets select {
+    width: 300px;
+}
+
+body.voc .formc {
+    margin-top: 60px;
+
+}
+body.voc .adwordfrm {
+    margin-top: 45px;
+}
+
+.wordsc {
+    margin-top: 80px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.words {
+    margin-top: 20px;
+}
+
+tr.alt {
+    background-color: #eeeeee;
+}
+
+.words th, .words td {
+    padding-left: 10px;
+}
+
+.wordsc hr {
+    background-color: #cccccc;
+    height: 1px;
+    margin: 0px;
+}
+
+.menu {
+    list-style: none;
+}
+p{
+    text-align: left !important;
+    color: #E51F59 !important;
+}
+/* #addword label{
+    widows: 0 600px auto;
+    
+} */
